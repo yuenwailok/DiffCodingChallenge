@@ -7,8 +7,10 @@ Please open different-coding-test.html in order to run the Apps. Two files: leas
 
 # Test suites:
 The recordtest.test.js file contains test cases for lease-paymentclone.js file (tests for how to generate the payment list)
+
 The leasepayment.test.js file contains test cases for recordtestclone1.js (tests for react component)
-Because the broswer cannot run node.js code, I've cloned the lease-payment.js and recordtest.js files, which is lease-paymentclone.js and recordtestclone1.js
+
+Because the broswer cannot run node.js code, I've cloned the lease-payment.js and recordtest.js files for testing purpose, which is lease-paymentclone.js and recordtestclone1.js
 # Disclaimer:
 In order to finish the application. I've visited different website, included but limited to:
 1. https://stackoverflow.com/questions/643782/how-to-check-whether-an-object-is-a-date
