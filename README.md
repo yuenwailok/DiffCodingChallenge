@@ -5,6 +5,8 @@ enter the lease id in order to generate the payments: Id must be shorter than 8 
 
 Please open different-coding-test.html in order to run the Apps. Two files: lease-payment.js and recordtest.js must be included.
 
+There are JSX version of the files mentioned above named lease-payment(JSX).js and recordtest(JSX).js
+
 # Test suites:
 The recordtest.test.js file contains test cases for lease-paymentclone.js file (tests for how to generate the payment list)
 
